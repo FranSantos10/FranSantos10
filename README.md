@@ -2,9 +2,8 @@
 
 <div>
 <a href= "https://github.com/FranSantos10">
-<img height="200em"   src="https://github-readme-stats.vercel.app/api?username=FranSantos10&show_icons=true&theme=dracula"/>
-
-<img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranSantos10&layout=compact)](https://github.com/FranSantos10/github-readme-stats&show_icons=true&theme=dracula"/>
+<img height="200em"   src="https://github-readme-stats.vercel.app/api?username=FranSantos10&show_icons=true&theme=radical"/>
+ <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranSantos10&layout=compact)](https://github.com/FranSantos10/github-readme-stats&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
