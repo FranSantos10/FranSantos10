@@ -2,10 +2,12 @@
 
 <div>
 <a href= "https://github.com/FranSantos10">
-<img height="200em"   src="https://github-readme-stats.vercel.app/api?username=FranSantos10&show_icons=true&theme=dracula"/>
- <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranSantos10&layout=compact)](https://github.com/FranSantos10/github-readme-stats&theme=dracula"/>
+ <img height="200em"   src="https://github-readme-stats.vercel.app/api?username=FranSantos10&show_icons=true&theme=radical"/>
+ <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranSantos10&layout=compact&theme=radical")](https://github.com/FranSantos10/github-readme-stats"/>
+ </a>
 </div>
-
+ 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
